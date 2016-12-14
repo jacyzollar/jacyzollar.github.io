@@ -1,0 +1,235 @@
+body {
+background-color: black;
+}
+
+nav{
+	text-align: center;
+	float:right;
+	display:inline;
+	margin-top: 16px;
+
+}
+nav a {
+	font-size: 24px;
+	text-align: center;
+	border-radius: ;
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: white;
+	padding-left:12px;
+	padding-right:12px;
+	text-decoration: none;
+	font-size:28px;
+	
+}
+
+a:hover {
+	color: #99ffdd; 
+}
+
+
+
+h1 a {
+	color: #99ffdd;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	float:left;
+	display:inline;
+	text-decoration: none;
+	font-size: 48px;
+	border-top:0px;
+
+	
+}
+
+h1 {
+	text-align: center;
+	color:lavender;
+}
+
+iframe.PE2 {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	position: absolute;
+	top: 25%;
+	left:1%;
+	
+}
+
+.PE2text{
+	width: 40%;
+	vertical-align:left;
+	text-align:left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	color: white;
+	position:absolute;
+	top:26%;
+	right: 1%;
+}
+
+
+.mountain {
+display:block;
+position: absolute;
+right: 1%;
+top: 780px;
+
+}
+
+.mountaintext{
+	width: 46%;
+	vertical-align:right;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	color: white;
+	position:absolute;
+	top:92%;
+	left: 1%;
+}
+
+.drone {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	position: absolute;
+	top:1330px;
+	left: 1%;
+}
+
+.dronetext {
+	width: 40%;
+	vertical-align:left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	text-align:left;
+	color:white;
+	position:absolute;
+	top:155%;
+	right: 1%;
+}
+
+.natgeo {
+display:block;
+position: absolute;
+top:1870px;
+width:700px;
+right: 1%;
+}
+
+.natgeotext{
+	width: 52%;
+	vertical-align:left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	color: white;
+	position:absolute;
+	top:219%;
+	left: 1%;
+}
+
+iframe.weather{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	position: absolute;
+	top:2385px;
+	left:1%;	
+}
+
+.weathertext{
+	width: 40%;
+	vertical-align:left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	text-align:left;
+	color: white;
+	position:absolute;
+	top:278%;
+	right: 1%;
+}
+
+.sharkweek {
+display:block;
+position:absolute;
+top:2950px;
+right: 1%%;
+max-width: 50%;
+max-height: 50%;
+}
+
+.sharkweektext{
+	width: 48%;
+	vertical-align:left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	color: white;
+	position:absolute;
+	top:343%;
+	left: 1%;
+}
+
+iframe.TBL{
+	margin-right: auto;
+	margin-left: auto;
+	display: block; 
+	position: absolute;
+	top:3450px;
+	left:1%;	
+}
+
+.TBLtext{
+	width: 40%;
+	vertical-align:left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	text-align:left;
+	color: white;
+	position:absolute;
+	top:403%;
+	right: 1%;
+}
+
+h2{
+	
+	text-align:center;
+	position:relative;
+	top:150px;
+	color:white;
+	font-family: 'Dancing Script', cursive;
+	font-size:50px;
+}
+
+h3{
+	position: relative;
+	top:200px;
+	text-align:left;
+	color:#71BFCC;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:25px;
+}
+	
+p.aboutwander{
+	color:white;
+	text-align:left;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:16px;
+	position:relative;
+	top:200px;
+}
+
+
+.wander{
+	position:relative;
+	left:400px;
+	top:200px;
+}
+
+
+
+footer p{
+position:absolute;
+color:white;
+}
+
+
